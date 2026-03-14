@@ -54,10 +54,10 @@ python train_model.py
 ## Project Demo
 
 Below is a screenshot of the phishing URL detection system running locally.
-![App Screenshot](Screenshot 2026-03-07 220800.png)
 
-![App Screenshot](Screenshot 2026-03-07 221028.png)
+![App Screenshot](Screenshot%202026-03-07%20220800.png)
 
+![App Screenshot](Screenshot%202026-03-07%20221028.png)
 
 ## Author
 Pritam Nayak
