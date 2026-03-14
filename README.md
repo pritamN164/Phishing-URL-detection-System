@@ -32,7 +32,7 @@ malicious_phish.csv
 
 Clone the repository
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/pritamN164/Phishing-URL-detection-System.git
 
 Move into the project folder
 
