@@ -36,11 +36,10 @@ git clone https://github.com/pritamN164/Phishing-URL-detection-System.git
 
 Move into the project folder
 
-cd your-repository-name
+cd Phishing-URL-detection-System
 
 Install required libraries
 
-pip install -r requirements.txt
 
 ## Run the Project
 
